@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-12-10T05:42:46.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="8vBhIJWKNFPvB3lsPFTl" type="github"><diagram id="wQictKkd4ThBaNjbUzYz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-10T07:40:34.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="nT2pra_ZV3UjZxTaBT0u" type="github">
+  <diagram id="77M5DZzlKw0vXSLYOGr4" name="Page-1">
+    <mxGraphModel dx="1108" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_4nYJw840AXTuQYLou-y-1" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-8" value="Tutor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="570" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-12" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="930" y="160" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-14" value="Payment gateway&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="940" y="560" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-26" value="Apply for course" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-30" value="Check Progress" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_4nYJw840AXTuQYLou-y-26" target="_4nYJw840AXTuQYLou-y-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-32" value="Access course content" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-33" value="Complete Assignments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-35" value="discuss in forums with administrators and tutors" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-40" value="iStudy" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" width="570" height="965" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-78" value="Create a course" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="567.5" width="140" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-80" value="Edit course content" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="650" width="140" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-81" value="Review student progress" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="370" y="730" width="140" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_4nYJw840AXTuQYLou-y-83" value="View analytics &amp;amp; report" style="ellipse;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="375" y="810" width="130" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
